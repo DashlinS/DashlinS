@@ -1,4 +1,4 @@
-<img src="https://github.com/DashlinS/DashlinS/blob/master/images/bloggif_5f3219b2b8d19.gif" width="800">
+<img src="https://github.com/DashlinS/DashlinS/blob/master/images/40665.jpg" width="800">
 
 ## Hello! Welcome to My Profile 
 
