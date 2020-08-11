@@ -1,4 +1,4 @@
-<img src="images/bloggif_5f3219b2b8d19.gif">
+![](images/bloggif_5f3219b2b8d19.gif)
 
 - 🔭 I’m currently working on furthering my education 
 - 🌱 I’m currently learning the Fundamentals of Html, CSS, and Javascript
