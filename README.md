@@ -1,7 +1,6 @@
 <img src="https://github.com/DashlinS/DashlinS/blob/master/images/40665.jpg" width="800">
 
-## Hello! Welcome to My Profile 
-
+# Hello and Welcome to My Profile!
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Html, CSS, and Javascript.
 - 💬 Send me a message anytime!
