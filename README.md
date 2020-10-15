@@ -2,7 +2,7 @@
 
 # Hello and Welcome to My Profile!
 - 🔭 I’m currently working on my Portfolio.
-- 🌱 I’m currently learning Html, CSS, and Javascript.
+- 🌱 I’m currently learning Fullstack Javascript.
 - 💬 Send me a message anytime!
 - 📫 You can reach me: on [LinkedIn](https://www.linkedin.com/in/dashlin-sermeil-351088186/) or [Twitter](https://twitter.com/DSermeil)!
 - 😄 Pronouns: He/Him/His
