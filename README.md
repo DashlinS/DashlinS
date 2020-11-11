@@ -1,10 +1,8 @@
-<p align="center">
-<img src="https://media.giphy.com/media/2xDzcNcRm0BeXPEVDI/giphy.gif" height=170><img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" height=250><img src="https://media.giphy.com/media/2xDzcNcRm0BeXPEVDI/giphy.gif" height=170>
+<p align="center"><img src="https://media.giphy.com/media/1244FhGdjBNQ2c/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" height=250><img src="https://media.giphy.com/media/2xDzcNcRm0BeXPEVDI/giphy.gif" height=130>
 </p>
 <h3 align= "center">Welcome to my Github Profile! With your host.. Me!</h3>
-<p align= "center">
-    <img src="https://media.giphy.com/media/1244FhGdjBNQ2c/giphy.gif" width="200"/>
-</p>
+
 
 
 
