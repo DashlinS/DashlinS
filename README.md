@@ -14,17 +14,20 @@
  </p>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/dashlin-sermeil-351088186/">
-   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="28px" alt="LinkedIn"/>
+   <img src="https://extramilemarketing.com/media/1578/linkedin_connect_button.png" width="180px" alt="LinkedIn"/>
   </a>
-
   <a target="_blank" href="https://twitter.com/DSermeil">
-   <img src="https://github.com/DashlinS/DashlinS/blob/master/images/twitterlogo.png" width="38px;" alt="Twitter"/>
+   <img src="https://icon-library.com/images/twtter-icon/twtter-icon-29.jpg" width="180px" alt="Twitter"/>
   </a>
 </p>
 <p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DashlinS&theme=flag-india&show_icons=true"></p>
-                                  
+<h4 align="center"> Languages and Tools:</h4> 
+<p align="center">
+<img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+</p>
+</br>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DashlinS&theme=flag-india&show_icons=true"></p>                               
 <h4>Stay a while :) and check some of my pinned repositories!</h4>
 <img src="https://media.giphy.com/media/W3MyhCrgfBlXDV349M/giphy.gif" height="200px">
 </p>
