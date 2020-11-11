@@ -21,7 +21,9 @@
    <img src="https://github.com/DashlinS/DashlinS/blob/master/images/twitterlogo.png" width="38px;" alt="Twitter"/>
   </a>
 </p>
-                                  <p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
+<p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DashlinS&theme=flag-india&show_icons=true"></p>
                                   
 <h4>Stay a while :) and check some of my pinned repositories!</h4>
 <img src="https://media.giphy.com/media/W3MyhCrgfBlXDV349M/giphy.gif" height="200px">
