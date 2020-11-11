@@ -23,7 +23,7 @@
 </p>
                                   <p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
                                   
-<h3>Check some of my pinned repositories!</h3>
+<h4>Stay a while :) and check some of my pinned repositories!</h4>
 <img src="https://media.giphy.com/media/W3MyhCrgfBlXDV349M/giphy.gif" height="200px">
 </p>
 
