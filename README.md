@@ -4,7 +4,6 @@
 </p>
 <h2 align="center"><img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px">Welcome To My Github Profile!<img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px"></h2>
 <p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
-<h3 align="center">A Small Introduction About Myself</h3>
 <h4 align="center">- I am a Nerd Enthusiast turned Programmer -</h4>
 <p align="center">
   <strong>My Pronouns:</strong> He/Him/His ♂️
