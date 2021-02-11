@@ -19,7 +19,7 @@
    <img src="https://icon-library.com/images/twtter-icon/twtter-icon-29.jpg" width="165px" alt="Twitter"/>
   </a>
 </p>
-<p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
+
 
 <h4 align="center"> Languages and Tools:</h4> 
 <p align="center">
