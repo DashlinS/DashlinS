@@ -15,7 +15,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/dashlin-sermeil-351088186/">
    <img src="https://extramilemarketing.com/media/1578/linkedin_connect_button.png" width="170px" alt="LinkedIn"/>
   </a>
-  <a target="_blank" href="https://twitter.com/DSermeil">
+  <a target="_blank" href="https://twitter.com/DashSCode">
    <img src="https://icon-library.com/images/twtter-icon/twtter-icon-29.jpg" width="165px" alt="Twitter"/>
   </a>
 </p>
