@@ -4,7 +4,7 @@
 </p>
 <h2 align="center"><img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px">Welcome To My Github Profile!<img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px"></h2>
 <p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
-<h4 align="center">- Geek Enthusiast and Gamer Turned Programmer -</h4>
+<h4 align="center">- Geek & Gamer Turned Programmer -</h4>
 <p align="center">
   <strong>My Pronouns:</strong> He/Him/His ♂️
 </p>
