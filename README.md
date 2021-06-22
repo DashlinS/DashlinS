@@ -21,7 +21,7 @@
 </p>
 
 
-<h4 align="center"> Languages and Tools:</h4> 
+<!-- <h4 align="center"> Languages and Tools:</h4> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg">  
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" style="vertical-align:top; margin:4px">
@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg"> 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg">
-</p>
+</p> -->
 </br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DashlinS&theme=flag-india&show_icons=true"></p>                               
 <h4>Stay a while :) and check some of my pinned repositories!</h4>
