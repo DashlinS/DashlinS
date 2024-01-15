@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2xDzcNcRm0BeXPEVDI/giphy.gif" height=130><img src="https://media.giphy.com/media/1244FhGdjBNQ2c/giphy.gif" width="200"/>
 <img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" height=250><img src="https://media.giphy.com/media/2xDzcNcRm0BeXPEVDI/giphy.gif" height=130>
 </p>
-<h2 align="center"><img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px">Welcome To My Github Profile!<img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px"></h2>
+<h2 align="center">Welcome To My Github Profile!<img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px"></h2>
 <p align="center"><img src="https://media.giphy.com/media/Ylf1j3qA5ZE2ekp3c8/giphy.gif"></p>
 <p align="center">
   <strong>My Pronouns:</strong> He/Him/His ♂️
